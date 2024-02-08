@@ -98,9 +98,9 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about FEMONIC BRIDGEPOINT FINANCIAL SERVICES '}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '“AT FEMONIC BRIDGEPOINT FINANCIAL SERVICES WE ARE INTO SALES OF FIRST GRADE LAPTOPS, LED / LCD TV, INSTALLATION OF SMART HDI CCTV / SOLAR INSTALLATION. WE ASO DO WEEKEND COMPUTER TRAINING FOR CHILDREN (19-22 YEARS), INSTANT, LAPTOP ENGINEERING / SOFTWEAR INSTALLATION, AS WELL AS WEB AND GRAPHIC DESIGNING. AT FEMONIC BRIDGEPOINT FINANCIAL SERVICES YOU CAN ALSO GET ACCESS TO INSTANT LOANS WHEN YOU REGISTER.”'
         }
       />
 
