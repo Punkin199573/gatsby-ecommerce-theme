@@ -125,7 +125,6 @@ const IndexPage = () => {
           ctaStyle={styles.ctaCustomButton}
         />
       </div>
-
       {/* Social Media */}
       <div className={styles.socialContainer}>
         <Title
