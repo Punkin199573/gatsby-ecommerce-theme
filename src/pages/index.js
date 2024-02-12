@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/img_0980.png'}
         title={ style={{ color: 'black' }} WELCOME TO FEMONIC BRIDGEPOINT FINANCIAL SERVICE}
-        subtitle={'WELCOME TO FEMONIC BRIDGEPOINT FINANCIAL SERVICES'}
+        subtitle={style={{ color: 'black' }}'WELCOME TO FEMONIC BRIDGEPOINT FINANCIAL SERVICES'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
