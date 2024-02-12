@@ -40,7 +40,7 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         <p>
           This is a demonstration for femic bridgepoint for verse by{' TechCity '}
-          <span className={styles.gold}>matter design.</span>
+          <span className={styles.gold}>TechCity.</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
