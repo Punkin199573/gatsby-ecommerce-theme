@@ -5,6 +5,7 @@ describe('sample render test', () => {
 
   it('displays the title text', () => {
     cy.get('h2')
-    .contains('Essentials for a cold winter');
+    .contains('WELCOME TO FEMONIC BRIDGEPOINT FINANCIAL SERVICES')
+.should('have.css', 'color', 'rgb(0, 0, 0)');
   })
 }) 
