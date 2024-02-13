@@ -28,7 +28,7 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-      columns={4}
+        columns={4}
         maxWidth={'500px'}
         image={'/img_0980.png'}
         title={ style={{ color: 'black' }} WELCOME TO FEMONIC BRIDGEPOINT FINANCIAL SERVICE}
